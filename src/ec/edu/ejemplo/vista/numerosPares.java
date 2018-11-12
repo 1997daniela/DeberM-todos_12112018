@@ -14,7 +14,6 @@ import javax.swing.JOptionPane;
 
  public class numerosPares {
  public static void main(String[] args) {
-  //Codigo por www.DesarrollarAplicaciones.com
  int numero=1;
  int limite=100;
  while(numero <= 20){
